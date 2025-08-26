@@ -33,3 +33,4 @@ git branch -d minha-nova-funcionalidade
 
 # Deleta a branch no repositório remoto
 git push origin --delete minha-nova-funcionalidade
+# Mudança para teste 
